@@ -1,0 +1,1 @@
+{"name":"Local: aaa","url":"e:\\Codes\\.vscode\\C++\\DRMC\\aaa.cpp","tests":[{"id":1677178420651,"input":"1000 10000000 19","output":"941"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\.vscode\\C++\\DRMC\\aaa.cpp","group":"local","local":true}

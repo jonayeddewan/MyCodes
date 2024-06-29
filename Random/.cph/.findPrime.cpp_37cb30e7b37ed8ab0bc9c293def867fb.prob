@@ -1,0 +1,1 @@
+{"name":"Local: findPrime","url":"e:\\Codes\\.vscode\\C++\\Random\\findPrime.cpp","tests":[{"id":1663852696498,"input":"5\n3\n2\n4\n9\n7","output":"How many number do you want to check? \n2 3 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\.vscode\\C++\\Random\\findPrime.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: check","url":"e:\\Codes\\.vscode\\C++\\check.cpp","tests":[{"id":1658779052354,"input":"4\n100000 100000\n12 24\n747794 238663\n1000000 1005465","output":"36\n6\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\Codes\\.vscode\\C++\\check.cpp","group":"local","local":true}
